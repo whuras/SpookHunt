@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Witch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 595158665
+    locked: 0
+  - name: Background+1
+    uniqueID: 637531593
+    locked: 0
+  - name: Background+2
+    uniqueID: 2802465229
+    locked: 0
+  - name: Background+3
+    uniqueID: 783624521
+    locked: 0
+  - name: Background+4
+    uniqueID: 1483781109
+    locked: 0
+  - name: Background+5
+    uniqueID: 1449712925
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2759108581
+    locked: 0
+  - name: Moon_and_stars
+    uniqueID: 922932233
+    locked: 0
